@@ -7,7 +7,7 @@ Author: Patrick Savio
 
 ## Overview
 The Magen­tic Control Fabric (MCF) defines a governance architecture where every action—human or automated—is a verifiable, reversible intent.  
-It extends traditional Zero Trust from *who* and *what* to **why** an action occurs.
+It extends traditional Zero Trust from *who* and *what* to **why** an action occurs: **Intent Zero Trust**
 
 ---
 
