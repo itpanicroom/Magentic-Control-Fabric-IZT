@@ -20,8 +20,7 @@ It extends traditional Zero Trust from *who* and *what* to **why** an action occ
 ---
 
 ## Repository Content
-- `/whitepaper/MCF_v1.0_Savio.pdf`  
-- `/diagrams/MCF_Trust_Loop.drawio`  
+- `/whitepaper/MCF_v1.0_Savio.pdf`   
 - `/references/` – standards and related work  
 - `/LICENSE`  
 
