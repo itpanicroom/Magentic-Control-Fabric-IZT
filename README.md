@@ -35,7 +35,7 @@ Licensed under [Creative Commons Attribution–ShareAlike 4.0 International](htt
 ---
 
 ## Citation
-Savio, P. (2025). *The Magentic Control Fabric — A Standard for Dual-Intent Orchestration and Intent Zero Trust (IZT).*  
+Savio, P. (2025). *The Magentic Control Fabric - A Standard for Dual-Intent Orchestration and Intent Zero Trust (IZT).*  
 Version 1.0, November 2025. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ---
